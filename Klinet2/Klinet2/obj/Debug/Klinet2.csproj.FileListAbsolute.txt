@@ -1,0 +1,7 @@
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\bin\Debug\Klinet2.exe.config
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\bin\Debug\Klinet2.exe
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\bin\Debug\Klinet2.pdb
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\bin\Debug\protobuf-net.dll
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\obj\Debug\Klinet2.csprojResolveAssemblyReference.cache
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\obj\Debug\Klinet2.exe
+c:\users\g\documents\visual studio 2015\Projects\Klinet2\Klinet2\obj\Debug\Klinet2.pdb

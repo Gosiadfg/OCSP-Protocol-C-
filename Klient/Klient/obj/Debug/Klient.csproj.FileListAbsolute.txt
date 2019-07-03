@@ -1,0 +1,7 @@
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\bin\Debug\Klient.exe.config
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\bin\Debug\Klient.exe
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\bin\Debug\Klient.pdb
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\bin\Debug\protobuf-net.dll
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\obj\Debug\Klient.exe
+c:\users\g\documents\visual studio 2015\Projects\Klient\Klient\obj\Debug\Klient.pdb

@@ -1,0 +1,7 @@
+c:\users\g\documents\visual studio 2015\Projects\Serwer\Serwer\bin\Debug\Serwer.exe.config
+c:\users\g\documents\visual studio 2015\Projects\Serwer\Serwer\bin\Debug\Serwer.exe
+c:\users\g\documents\visual studio 2015\Projects\Serwer\Serwer\bin\Debug\Serwer.pdb
+c:\users\g\documents\visual studio 2015\Projects\Serwer\Serwer\obj\Debug\Serwer.exe
+c:\users\g\documents\visual studio 2015\Projects\Serwer\Serwer\obj\Debug\Serwer.pdb
+C:\Users\G\Documents\Visual Studio 2015\Projects\Serwer\Serwer\bin\Debug\protobuf-net.dll
+C:\Users\G\Documents\Visual Studio 2015\Projects\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
