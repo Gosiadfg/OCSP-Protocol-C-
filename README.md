@@ -1,1 +1,1 @@
-Projekt dwuosobowy.
+Project with contributor
